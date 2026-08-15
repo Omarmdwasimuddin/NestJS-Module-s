@@ -86,3 +86,7 @@ export class EmployeeController {
 }
 ```
 ---
+
+
+> ### Output
+> <img width="461" height="199" alt="image" src="https://github.com/user-attachments/assets/698bfebe-bb31-4bb0-9a72-9b706cfae027" />
